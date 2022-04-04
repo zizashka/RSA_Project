@@ -1,0 +1,11 @@
+C:\Users\Zaurbek Valgasov\Desktop\RSA\protect_inf_LR1\bin\Debug\protect_inf_LR1.exe.config
+C:\Users\Zaurbek Valgasov\Desktop\RSA\protect_inf_LR1\bin\Debug\protect_inf_LR1.exe
+C:\Users\Zaurbek Valgasov\Desktop\RSA\protect_inf_LR1\bin\Debug\protect_inf_LR1.pdb
+C:\Users\Zaurbek Valgasov\Desktop\RSA\protect_inf_LR1\obj\Debug\MyRSACode.csproj.AssemblyReference.cache
+C:\Users\Zaurbek Valgasov\Desktop\RSA\protect_inf_LR1\obj\Debug\MyRSACode.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zaurbek Valgasov\Desktop\RSA\protect_inf_LR1\obj\Debug\protect_inf_LR1.Form1.resources
+C:\Users\Zaurbek Valgasov\Desktop\RSA\protect_inf_LR1\obj\Debug\protect_inf_LR1.Properties.Resources.resources
+C:\Users\Zaurbek Valgasov\Desktop\RSA\protect_inf_LR1\obj\Debug\MyRSACode.csproj.GenerateResource.cache
+C:\Users\Zaurbek Valgasov\Desktop\RSA\protect_inf_LR1\obj\Debug\MyRSACode.csproj.CoreCompileInputs.cache
+C:\Users\Zaurbek Valgasov\Desktop\RSA\protect_inf_LR1\obj\Debug\protect_inf_LR1.exe
+C:\Users\Zaurbek Valgasov\Desktop\RSA\protect_inf_LR1\obj\Debug\protect_inf_LR1.pdb
